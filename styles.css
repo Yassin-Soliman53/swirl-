@@ -11,3 +11,23 @@
 .city{
     border: 1px solid white;
 }
+a {
+    text-decoration: none;
+}
+ul{
+    display: flex;
+    gap: 30px;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+li{
+    list-style: none;
+}
+img {
+    width: 500px;
+    height: 400px;
+}
+.card{
+    border: 1px solid white;
+}
